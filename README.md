@@ -5,5 +5,5 @@
 These are my notes and solutions for the CS224N course by Stanford University from Winter 2021.
 
 ## Notes
-
+- [lecture01](Note/lecture01.md)
 ## Assignments
